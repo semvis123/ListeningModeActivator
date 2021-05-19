@@ -1,0 +1,6 @@
+{
+	group = "ListeningModeActivator";
+	title = "Noise cancellation";
+	description = "Turn on noise cancellation";
+	"compatible-modes" = ("springboard", "application", "lockscreen");
+}

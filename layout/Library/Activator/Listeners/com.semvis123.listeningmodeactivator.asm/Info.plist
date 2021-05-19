@@ -1,0 +1,6 @@
+{
+	group = "ListeningModeActivator";
+	title = "Transparency mode";
+	description = "Turn on transparency mode";
+	"compatible-modes" = ("springboard", "application", "lockscreen");
+}

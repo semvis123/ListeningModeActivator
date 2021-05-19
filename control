@@ -1,0 +1,9 @@
+Package: com.semvis123.listeningmodeactivator
+Name: ListeningModeActivator
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Change the listening mode from activator!
+Maintainer: Sem Visscher
+Author: Sem Visscher
+Section: Addons (Activator)
+Depends: mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8.3)
