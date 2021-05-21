@@ -1,6 +1,6 @@
 {
 	group = "ListeningModeActivator";
 	title = "Normal";
-	description = "Turns off noise cancellation and ambient sound";
+	description = "Turns off noise cancellation and transparency mode";
 	"compatible-modes" = ("springboard", "application", "lockscreen");
 }
